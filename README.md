@@ -1,4 +1,9 @@
-# <img src="assets/Rubric.png" width="40" style="vertical-align:middle"> From Holistic Evaluation to Structured Criteria: A Survey of Rubrics Across the Evolving LLM Landscape
+# <img src="assets/Rubric.png" width="60" style="vertical-align:middle"> From Holistic Evaluation to Structured Criteria: A Survey of Rubrics Across the Evolving LLM Landscape
+
+<p align="center">
+  <a href="https://doi.org/10.13140/RG.2.2.14801.08806"><img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?style=flat-square&logo=researchgate" alt="Paper"></a>
+  <a href="https://github.com/AI9Stars/LLM-Rubrics-Survey"><img src="https://img.shields.io/badge/GitHub-LLM--Rubrics--Survey-black?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
 
 ## 📌 Overview
 
@@ -49,6 +54,22 @@ Part II: Core Framework
 Part III: Impact and Outlook
   ├── Chapter 7: Where Are Rubrics Applied?
   └── Chapter 8: Where Does Rubric Research Head?
+```
+
+------
+
+## 📖 Citation
+
+If you find this survey useful, please cite:
+
+```bibtex
+@article{chen2026rubrics,
+  title   = {From Holistic Evaluation to Structured Criteria: A Survey of Rubrics Across the Evolving LLM Landscape},
+  author  = {Hao Chen and Ziyu Han and Yukun Yan and Qingfu Zhu and Maosong Sun and Wanxiang Che},
+  year    = {2026},
+  doi     = {10.13140/RG.2.2.14801.08806},
+  url     = {https://doi.org/10.13140/RG.2.2.14801.08806}
+}
 ```
 
 ------
