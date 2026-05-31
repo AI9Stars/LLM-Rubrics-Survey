@@ -12,17 +12,15 @@ The survey is organized into three interconnected parts covering the conceptual 
 
 ## 🔑 Core Contributions
 
-### C1: Co-evolutionary Perspective and Unified Taxonomy
+### C1: A Co-evolutionary Perspective on Rubrics and LLMs
 
 We introduce the first framework that situates rubric development within successive LLM paradigm shifts. Rather than treating rubrics as isolated tools, we show that each leap in model capability, from alignment to reasoning, agentic deployment, and self-evolution, has structurally demanded a more sophisticated form of rubric. This co-evolutionary perspective reveals why rubrics have independently recurred across evaluation, RL, and safety research threads, and traces their progression from external evaluation instruments to endogenous mechanisms for self-improvement.
 
 <p align="center">   <img src="assets/Co-evolutionary_Perspective.png" width="90%" alt="Co-evolutionary Framework">   <br><em>Figure 2: The co-evolutionary development of rubrics and LLMs across five paradigm phases.</em> </p>
 
-Alongside this historical arc, we establish a unified taxonomy organized along structural form and evaluative content that brings the full diversity of rubric designs in practice under a single coherent framework.
-
 ### C2: Full Rubric Lifecycle and Reliability Boundaries
 
-We systematically examine rubrics across their complete lifecycle: how they are constructed (human expert, automated LLM, human-in-the-loop), how they are optimized from passive refinement to active co-evolution with model capabilities, and how they function as evaluation criteria, training signals, and ultimately endogenous mechanisms within the model itself.
+We systematically examine rubrics across their complete lifecycle: how they are constructed, how they are optimized from passive refinement to active co-evolution with model capabilities, and how they function as evaluation criteria, training signals, and ultimately endogenous mechanisms within the model itself.
 
 We further conduct the first rigorous **reliability analysis** of rubrics from multiple independent perspectives, covering generation quality, execution fidelity, theoretical constraints, and security threats, revealing that rubric reliability is stratified across dimensions that must each be addressed for evaluation to be trustworthy as a whole.
 
@@ -30,7 +28,7 @@ We further conduct the first rigorous **reliability analysis** of rubrics from m
 
 ### C3: Benchmarks, Applications, and Research Roadmap
 
-We provide the first comprehensive synthesis of rubric-based benchmarks spanning general, professional, deep research, multimodal, and academic categories, and downstream applications across healthcare, law, education, finance, society, and scientific research. Across all domains, a shared tension recurs: translating the implicit judgment standards of domain experts into explicit, programmatically verifiable criteria without sacrificing the depth that makes those standards meaningful.
+We provide the comprehensive synthesis of rubric-based benchmarks spanning general, professional, deep research, multimodal, and academic categories, and downstream applications across healthcare, law, education, finance, society, and scientific research. Across all domains, a shared tension recurs: translating the implicit judgment standards of domain experts into explicit, programmatically verifiable criteria without sacrificing the depth that makes those standards meaningful.
 
 We conclude with four open research directions (reliable rubric generation, dynamic rubric design, multimodal extension, and rubric internalization) that together define the trajectory toward scalable supervision and self-evolving aligned AI systems.
 
