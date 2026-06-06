@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://doi.org/10.13140/RG.2.2.14801.08806"><img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?style=flat-square&logo=researchgate" alt="Paper"></a>
+  <a href="https://ai9stars.github.io/LLM-Rubrics-Survey/paper.pdf"><img src="https://img.shields.io/badge/PDF-Paper-blueviolet?style=flat-square&logo=adobeacrobatreader" alt="PDF">
+</a>
   <a href="https://github.com/AI9Stars/LLM-Rubrics-Survey"><img src="https://img.shields.io/badge/GitHub-LLM--Rubrics--Survey-black?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-
 💡 **Suggestions welcome!** If you find any missing works or recently published papers relevant to this survey, feel free to open an issue. We will continuously maintain and update this repository.
-
-
 
 ## 📌 Overview
 
