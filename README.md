@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://doi.org/10.13140/RG.2.2.14801.08806"><img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?style=flat-square&logo=researchgate" alt="Paper"></a>
-  <a href="https://arxiv.org/abs/2606.08625"><img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2606.08625v2"><img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv" alt="arXiv"></a>
   <a href="https://github.com/AI9Stars/LLM-Rubrics-Survey"><img src="https://img.shields.io/badge/GitHub-LLM--Rubrics--Survey-black?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
+
 
 💡 **Suggestions welcome!** If you find any missing works or recently published papers relevant to this survey, feel free to open an issue. We will continuously maintain and update this repository.
 
@@ -12,9 +13,9 @@
 
 ## 🔔 Updates
 
-**[2026-07-01]** 🎉 We released v2 of our survey on [arXiv](https://arxiv.org/abs/2606.08625)!  Thanks to the community's valuable feedback, we have integrated ~50 new papers, expanded several sections, and improved overall coverage and clarity. The survey now covers papers up to June 30, 2026.
+**[2026-07-01]** 🎉 We released v2 of our survey on [arXiv](https://arxiv.org/abs/2606.08625v2)!  Thanks to the community's valuable feedback, we have integrated ~50 new papers, expanded several sections, and improved overall coverage and clarity. The survey now covers papers up to June 30, 2026.
 
-**[2025-06-10]** 📖 A Chinese blog post interpreting our survey is available on WeChat: [link](https://mp.weixin.qq.com/s/2WgSmo02IXEiXe1RbqvSpg).
+**[2025-06-10]** 📖 A Chinese blog post interpreting our survey is available on  [WeChat](https://mp.weixin.qq.com/s/2WgSmo02IXEiXe1RbqvSpg).
 
 **[2026-05-31]** 🚀 We released our survey *"From Holistic Evaluation to Structured Criteria: Rubrics Across the Evolving LLM Landscape"*. 
 
